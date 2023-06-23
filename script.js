@@ -31,4 +31,13 @@ if(forma === 'quadrado'){
     area = (altura * comprimento) / 2;
 }
 
-console.log(area);
+//console.log(area);
+
+// tipagem dinâmica
+// untyped
+
+let minhaVar = 567;
+minhaVar = "texto";
+minhaVar = true;
+
+console.log(minhaVar);
